@@ -4623,21 +4623,3 @@ swiper-container .swiper-notification {
   backface-visibility: hidden;
   overflow: hidden;
 }
-
-/*# sourceMappingURL=app.css.map */
-
-.titlebox .sub-title {
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
-}
-
-.titlebox .title {
-  font-family: "Poppins", sans-serif;
-  font-size: 40px;
-  font-style: bold;
-  font-weight: 400;
-  line-height: 200%;
-  letter-spacing: 0.9px;
-  text-align: left;
-  color: #182346;
-}
